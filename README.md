@@ -18,6 +18,6 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [(https://gl-results-summary.vercel.app/](https://gl-results-summary.vercel.app/)
+- Live Site URL: (https://bmi-calculator-beta-six.vercel.app/)
 
 
